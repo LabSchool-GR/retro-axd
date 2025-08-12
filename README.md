@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://labschool.gr/retro-axd/" target="_blank">
-    <img src="https://img.shields.io/badge/Δοκιμάστε_την_εφαρμογή-Online-success?style=for-the-badge&logo=laravel" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Δοκιμάστε-Online-success?style=for-the-badge&logo=laravel" alt="Live Demo">
   </a>
 </p>
 
@@ -136,6 +136,13 @@ chmod -R 775 storage bootstrap/cache
 Αναπτύχθηκε από τον DIMITRIO KANATA  
 σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD**.
 <p align="center">
-  <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="Retro-AXD Logo">
+  <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="STETH Logo" height="115" style="margin-right: 60px;">
+  <img src="https://labschool.gr/retro-axd/storage/retro-guardians-axd-250px.png" alt="Retro-AXD Logo" height="115" style="margin-left: 60px;">
 </p>
+
+<p align="center">
+  <a href="https://steth.gr" target="_blank">Σύλλογος Τεχνολογίας Θράκης</a> |
+  <a href="https://www.facebook.com/profile.php?id=61556225845165" target="_blank">Retro Guardians AXD</a>
+</p>
+
 
