@@ -133,11 +133,13 @@ chmod -R 775 storage bootstrap/cache
 ---
 
 ## Credits
-Αναπτύχθηκε από τον DIMITRIO KANATA  
-σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD**.
+Αναπτύχθηκε από τον **Dimitrio Kanata** και την σελίδα **LabSchool.gr**
+σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD** του συλλόγου.
+
 <p align="center">
-  <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="STETH Logo" height="115" style="margin-right: 60px;">
-  <img src="https://labschool.gr/retro-axd/storage/retro-guardians-axd-250px.png" alt="Retro-AXD Logo" height="115" style="margin-left: 60px;">
+  <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="STETH Logo" height="115">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://labschool.gr/retro-axd/storage/retro-guardians-axd-250px.png" alt="Retro-AXD Logo" height="115">
 </p>
 
 <p align="center">
