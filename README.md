@@ -70,9 +70,11 @@
 > **Packages (composer)**: barryvdh/laravel-dompdf, intervention/image, maatwebsite/excel, simplesoftwareio/simple-qrcode, spatie/laravel-permission  
 > **Dev**: laravel/breeze, pestphp/pest, κ.ά.
 
-💡 **Σημείωση για Storage σε XAMPP**:  
+💡 **1η Σημείωση για Storage σε XAMPP**:  
 Αντί για συμβολικό σύνδεσμο (`php artisan storage:link`), μπορείς να ορίσεις Apache Alias ώστε το `storage/app/public` να σερβίρεται ως `/retro-axd/storage`.
 
+💡 **2η Σημείωση για Στοιχεία εισόδου Admin**:  
+demo@retro-axd.gr | password123
 ---
 
 ## Εγκατάσταση σε Υπολογιστή (Τοπικά, XAMPP)
