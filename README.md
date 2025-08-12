@@ -133,8 +133,7 @@ chmod -R 775 storage bootstrap/cache
 ---
 
 ## Credits
-Αναπτύχθηκε από τον **Dimitrio Kanata** και την σελίδα **LabSchool.gr**
-σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD** του συλλόγου.
+Αναπτύχθηκε σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD** του συλλόγου.
 
 <p align="center">
   <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="STETH Logo" height="115">
