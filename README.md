@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://labschool.gr/retro-axd/" target="_blank">
-    <img src="https://img.shields.io/badge/Δες_την_εφαρμογή-Online-success?style=for-the-badge&logo=laravel" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Δοκιμάστε_την_εφαρμογή-Online-success?style=for-the-badge&logo=laravel" alt="Live Demo">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ---
 
 ## Πίνακας Περιεχομένων
-- 🔗 [Live Demo](#live-demo)
+- 🔗 [Retro Guardians AXD](#Retro-Guardians-AXD)
 - 📖 [Περιγραφή](#περιγραφή)
 - ✨ [Χαρακτηριστικά](#χαρακτηριστικά)
 - ⚙ [Απαιτήσεις Συστήματος](#απαιτήσεις-συστήματος)
@@ -34,8 +34,11 @@
 
 ---
 
-## Live Demo
-Δοκιμάστε την εφαρμογή σε πλήρη λειτουργία από το Σύλλογό μας. Ελάτε και στην ομάδα μας και γραφτείτε ως μέλη ή φίλοι του συλλόγου μας: **[https://labschool.gr/retro-axd/](https://labschool.gr/retro-axd/)**
+## Retro Guardians AXD
+-  Δοκιμάστε την εφαρμογή σε πλήρη λειτουργία από την ομάδα μας:
+**[https://labschool.gr/retro-axd/](https://labschool.gr/retro-axd/)**
+- Ελάτε στην ομάδα μας και γραφτείτε ως μέλη ή φίλοι του συλλόγου μας:
+**[https://steth.gr/registration/](https://steth.gr/registration/)**
 
 ---
 
@@ -132,3 +135,7 @@ chmod -R 775 storage bootstrap/cache
 ## Credits
 Αναπτύχθηκε από τον DIMITRIO KANATA  
 σε συνεργασία με τον **Σύλλογο Τεχνολογίας Θράκης** και την ομάδα **Retro Guardians AXD**.
+<p align="center">
+  <img src="https://steth.gr/wp-content/uploads/2017/12/cropped-final_logo_web_250.png" alt="Retro-AXD Logo">
+</p>
+
