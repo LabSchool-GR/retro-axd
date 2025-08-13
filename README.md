@@ -110,7 +110,6 @@ npm run dev
 ## Εγκατάσταση σε Server (Production)
 
 ```bash
-git clone https://github.com/LabSchool-GR/retro-axd.git
 composer install --optimize-autoloader --no-dev
 npm install && npm run build
 php artisan key:generate
